@@ -19,8 +19,6 @@ Project Organization
     │                           All data folders are too large for github, can be found at the link below:
     │                           https://drive.google.com/drive/folders/1GD7eRp6cpy9bNZ1-FH3uYSbgolxLo-Na?usp=sharing
     │
-    ├── docs                 <- A default Sphinx project; see sphinx-doc.org for details
-    │
     ├── models               <- Trained and serialized models, model predictions, or model summaries
     │                           Too large for github, can be found at the link below:
     │                           https://drive.google.com/drive/folders/1GTdTCJE6fAOJ5NslOw--fFqh1MGkMKIn?usp=sharing
