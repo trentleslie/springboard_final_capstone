@@ -29,7 +29,7 @@ Project Organization
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │
     └── requirements.yml   <- The requirements file for reproducing the analysis environment, can be
-                              imported in Anaconda (may need to updated prefix)
+                              imported in Anaconda (may need to update prefix)
 
 --------
 
